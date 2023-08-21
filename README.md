@@ -5,7 +5,7 @@
 
 ##
 
-![BryanBeckham06 GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanbeckham06&show_icons=true&theme=onedark)
+![vinimanzano GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanzano&show_icons=true&theme=onedark)
 
 
 ##
