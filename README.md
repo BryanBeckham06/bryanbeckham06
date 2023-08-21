@@ -5,7 +5,7 @@
 
 ##
 
-![Bryan Beckham GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanzano&show_icons=true&theme=onedark)
+![Bryan Beckham GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=onedark)
 
 ##
 
