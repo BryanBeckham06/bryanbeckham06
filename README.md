@@ -2,7 +2,7 @@
 
 <div align="right">
   
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 </div>
 
 
