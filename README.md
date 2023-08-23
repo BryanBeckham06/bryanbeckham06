@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-##
-![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanbeckham06&show_icons=true&theme=radical)
+
 
 
 ##
