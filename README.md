@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<div align="right">
-  
-  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-</div>
 
+![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
 
 
 ##
