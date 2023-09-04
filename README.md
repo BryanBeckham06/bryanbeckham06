@@ -5,7 +5,7 @@
 
 <h1 align="center">
   
-![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
+![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
 
 </h1>
 ##
