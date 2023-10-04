@@ -11,8 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://www.techbaz.org/Course/img/c-logo.png" width="40px" height="40px">
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40px" width="40px">
-  <a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="40x" height="40px" />](https://github.com/MartinChavez/Learn-Javascript)</a>
-  
+  <a name="README"><img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="40x" height="40px" />
    ##
   
 ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
