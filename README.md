@@ -21,7 +21,7 @@
  	 
   <h1 align="center">
     
-  ![MIrella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellaxsj&show_icons=true&theme=radical)
+  ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
   </h1>
  
   ###
