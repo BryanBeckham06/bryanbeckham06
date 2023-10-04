@@ -20,9 +20,9 @@
   <a href="https://www.instagram.com/beckhamz._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 
   <h1 align="center"> 
-   ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical) </h1>
- 
- 
+   ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical) 
+ </h1>
+ </h1>
   ###
 
 <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinimanzano/vinimanzano/output/github-contribution-grid-snake-dark.svg">
