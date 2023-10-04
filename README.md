@@ -2,7 +2,7 @@
   <h1 align="center">Olá, Eu sou <a href="https://www.instagram.com/beckhamz._/"><i>Bryan Beckham</i></a> 👻</h1>
 </div>
 
- # 
+  
   Aprendendo:
   
   <h1 align="center">
@@ -13,7 +13,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40px" width="40px">
   <a name="README"><img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="40x" height="40px" /></a>
   </h1>
-  #
+  
       
   <div>
     <h1 align="center">
