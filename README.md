@@ -2,7 +2,8 @@
   <h1 align="center">Olá, Eu sou <a href="https://www.instagram.com/beckhamz._/"><i>Bryan Beckham</i></a> 👻</h1>
 </div>
 
-Estou aprendendo:
+- ##
+  Estou aprendendo:
   
 
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,7 +12,7 @@ Estou aprendendo:
   <img src="https://www.techbaz.org/Course/img/c-logo.png" width="40px" height="40px">
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40px" width="40px">
   
-<h1 align="center">
+   ##
   
 ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
 
