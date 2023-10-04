@@ -23,7 +23,9 @@
   
   </a> 
    <div>
+<center>
 ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
+</center>
 </div>
 </h1>
 
