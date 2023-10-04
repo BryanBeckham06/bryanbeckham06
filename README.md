@@ -2,7 +2,8 @@
   <h1 align="center">Olá, Eu sou <a href="https://www.instagram.com/beckhamz._/"><i>Bryan Beckham</i></a> 👻</h1>
 </div>
 
-  - ##
+
+- ##
     
   Estou aprendendo:
   
@@ -14,7 +15,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40px" width="40px">
   <a name="README"><img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="40x" height="40px" />
    
-    - ##
+- ##
       
   <div>
   <a href="https://github.com/BryanBeckham06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
