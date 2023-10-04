@@ -19,15 +19,14 @@
   <a href="https://github.com/BryanBeckham06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/beckhamz._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 
-     - ## 
+- ## 
   
   </a> 
    <div>
-<center>
-![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
-</center>
-</div>
-</h1>
+
+    ![BryanBeckham06's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanBeckham06&show_icons=true&theme=radical)
+
+  </div>
 
 <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinimanzano/vinimanzano/output/github-contribution-grid-snake-dark.svg">
 
