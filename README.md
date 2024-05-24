@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Olá, Eu sou <a href="https://www.instagram.com/beckhamz._/"><i> Bryan Beckham</i></a> 👻
   <br>
-    PARA DE DEIXAR SUAS COISAS CONECTADAS SEU ANIMAL
   </h1>
 </div>
 
